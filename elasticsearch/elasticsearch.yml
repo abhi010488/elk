@@ -1,0 +1,5 @@
+searchguard.ssl.transport.enabled: false
+searchguard.ssl.http.enabled: false
+searchguard.ssl.transport.enforce_hostname_verification: false
+searchguard.ssl.transport.resolve_hostname: false
+searchguard.ssl.transport.enable_openssl_if_available:false
